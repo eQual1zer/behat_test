@@ -12,3 +12,5 @@ Next Test
 And another test
 
 GitHub Trigger test 1
+
+GitHub Trigger test 2
